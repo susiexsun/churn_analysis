@@ -72,6 +72,6 @@ The analysis produced a lot of great starting points for future experiments.
 
 ##### Repo Structure
 code 
-* case-study (clean data & run models)
-* case-study.ipynb (EDA and analysis)
+* case-study.ipynb (EDA)
+* case-study.py (clean data & run models)
 * roc.py (code to run roc plot)
