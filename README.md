@@ -70,8 +70,8 @@ The analysis produced a lot of great starting points for future experiments.
   * Incentivize more use in first 30 days by not having surge pricing
   * Offer discounts on weekdays for weekend users (and vice versa)
 
-## Repo Structure
-|- Code <br>
- *|- case-study (clean data & run models)<br>
- *|- case-study.ipynb (EDA and analysis)<br>
- *|- roc.py (code to run roc plot)<br>
+##### Repo Structure
+code 
+* case-study (clean data & run models)
+* case-study.ipynb (EDA and analysis)
+* roc.py (code to run roc plot)
