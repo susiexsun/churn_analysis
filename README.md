@@ -30,6 +30,7 @@ Lots of use within the first 30 days tended to create lasting retention.
 ![30 day behavior](http://s27.postimg.org/khaha4v5v/30days.jpg)
 
 Users that are price sensitive tended to churn. Since we didn't have actual price sensitivity data on customers, we used two data points as proxies: percentage of use during pricing and having an Android phone (since iPhone users tend to be less price sensitive).
+
 ![price sensitivity](http://s7.postimg.org/v77etnbyj/price_sensitivity.jpg)
 
 
@@ -53,7 +54,7 @@ Here's a ROC plot with our model.
 
 ![GBR model](http://s24.postimg.org/7zq7l6m9h/gbr_analysis.jpg)
 
-This model still needs a lot of work. Had we had more time, our first action would be to do more feature engineering. There was also more fruitful work to be done in experimentation, which we'll cover in the next section.
+This model still needs a lot of work. Had we had more time, we would do feature engineering. There was lots of interesting information that require time series analysis. There was also fruitful work to be done in experimentation & A/B Testing, which I cover in the next section.
 
 ## Next Steps
 
