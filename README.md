@@ -71,7 +71,7 @@ The analysis produced a lot of great starting points for future experiments.
   * Offer discounts on weekdays for weekend users (and vice versa)
 
 ## Repo Structure
-|- Code
-|  |- case-study (models)
-|  |- case-study.ipynb (EDA and analysis)
-|  |- roc.py (code to run roc plot)
+|- Code <br>
+|  |- case-study (models)<br>
+|  |- case-study.ipynb (EDA and analysis)<br>
+|  |- roc.py (code to run roc plot)<br>
