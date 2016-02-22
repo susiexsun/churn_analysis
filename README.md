@@ -2,7 +2,7 @@
 
 Conduct EDA and build a model for an on-demand company to predict churn of customers. 
 
-This project was built over 1 day as a collaboration between myself and Eugene Lee. 
+This project was built over 1 day as a collaboration between myself and Eugene Huang (eugeneh101). 
 
 ##### The Data
 50,000 rows of user log data in csv
